@@ -1638,7 +1638,7 @@
 	}
 
 		a:hover {
-			color: #E27689;
+			color: #FFF;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -2169,7 +2169,7 @@
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #ecf1f1;
 			}
 
 /* Wide */
